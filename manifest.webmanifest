@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "定期券 旬数計算",
+  "short_name": "旬数計算",
+  "description": "定期券の開始日・期間・申出日から旬数を計算します。",
+  "lang": "ja",
+  "start_url": "./?source=pwa",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#1f4f7a",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
